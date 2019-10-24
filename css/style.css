@@ -1,0 +1,25 @@
+.list-container {
+    text-align: left;
+    padding-left: 15%;
+}
+.list-container li {
+    padding-bottom: 15px;
+}
+@media (max-width: 767px) {
+    .second-btn-hero-section {
+        margin-top: 20px;
+    }
+}
+.logo-header {
+    width: 40px;
+    height: 40px;
+}
+/* .background-const,
+body .navbar[data-sticky="top"].scrolled.navbar-light {
+    background:#1B1F3B !important;
+} */
+/* .navbar-light .navbar-nav .nav-link,
+.navbar-light .navbar-brand {
+    color: white;
+} */
+
